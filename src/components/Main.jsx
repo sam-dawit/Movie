@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import Login from "./login";
+import Login from "./Login";
 import MovieCarousal from "./MovieCarousal";
 import MovieList from "./MovieList";
 import TvSeries from "./TvSeries";
